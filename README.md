@@ -18,7 +18,6 @@
 </div>
 
 ### :man_technologist: О себе : 
-<br>
 <h4>Меня зовут Ислам, я Аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</h4>
 
 - :briefcase:  Главной целью на данный момент является: Работать Аналитиком данных и применять полученные знания на практике;
